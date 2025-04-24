@@ -1,0 +1,6 @@
+Custom CSS and JS Loader
+Error Lens
+Material Theme Icons — Free
+Palenight Theme
+Prettier - Code formatter
+Toggle
